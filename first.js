@@ -1,4 +1,4 @@
 ﻿function newFunction()
 {
-    console.log("first");
+    console.log("first branch1 file changes");
 }
